@@ -1,0 +1,540 @@
+# depslib dependency file v1.0
+1523443700 source:c:\users\kanen\desktop\workspace\codeblocks\week6\onlineweatherstation\onlineweatherstation\date.cpp
+	"Date.h"
+
+1523442889 c:\users\kanen\desktop\workspace\codeblocks\week6\onlineweatherstation\onlineweatherstation\date.h
+	<iostream>
+	<cstdlib>
+
+1523448643 source:c:\users\kanen\desktop\workspace\codeblocks\week6\onlineweatherstation\onlineweatherstation\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iostream>
+	"Time.h"
+	"Date.h"
+	"Vector.h"
+
+1523446186 source:c:\users\kanen\desktop\workspace\codeblocks\week6\onlineweatherstation\onlineweatherstation\time.cpp
+	"Time.h"
+	<string>
+
+1523442747 c:\users\kanen\desktop\workspace\codeblocks\week6\onlineweatherstation\onlineweatherstation\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1522997381 c:\users\kanen\desktop\workspace\codeblocks\week6\onlineweatherstation\onlineweatherstation\vector.h
+
+1523443700 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v1\date.cpp
+	"Date.h"
+
+1523442889 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v1\date.h
+	<iostream>
+	<cstdlib>
+
+1523446186 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v1\time.cpp
+	"Time.h"
+	<string>
+
+1523442747 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v1\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523504918 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v1\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iostream>
+	"Time.h"
+	"Date.h"
+	"Vector.h"
+
+1522997381 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v1\vector.h
+
+1523520942 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v2\date.cpp
+	"Date.h"
+
+1523442889 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v2\date.h
+	<iostream>
+	<cstdlib>
+
+1523446186 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v2\time.cpp
+	"Time.h"
+	<string>
+
+1523442747 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v2\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523546037 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iostream>
+	"Time.h"
+	"Date.h"
+	"Vector.h"
+
+1522997381 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v2\vector.h
+
+1523761529 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v3\date.cpp
+	"Date.h"
+
+1523714595 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v3\date.h
+	<iostream>
+	<cstdlib>
+
+1523762775 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v3\time.cpp
+	"Time.h"
+	<string>
+
+1523714600 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v3\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523761993 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v3\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Time.h"
+	"Date.h"
+	"WeatherSensorType.h"
+	"Vector.h"
+
+1523716740 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v3\vector.h
+
+1523716689 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v3\weathersensortype.h
+
+1523804181 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v4\date.cpp
+	"Date.h"
+
+1523762985 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v4\date.h
+	<iostream>
+	<cstdlib>
+
+1523855376 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v4\time.cpp
+	"Time.h"
+	<string>
+
+1523852216 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v4\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523853665 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v4\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Time.h"
+	"Date.h"
+	"WeatherSensorType.h"
+	"Vector.h"
+
+1523762979 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v4\weathersensortype.h
+
+1523762968 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v4\vector.h
+
+1523804181 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v5\date.cpp
+	"Date.h"
+
+1523762985 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v5\date.h
+	<iostream>
+	<cstdlib>
+
+1523946385 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v5\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Time.h"
+	"Date.h"
+	"WeatherSensorType.h"
+	"Vector.h"
+
+1523863448 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v5\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523762979 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v5\weathersensortype.h
+
+1523939251 c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v5\vector.h
+
+1523863301 source:c:\users\kanen\desktop\workspace\codeblocks\week7\onlineweatherstation_v5\time.cpp
+	"Time.h"
+	<string>
+
+1523804181 source:d:\2018, semester 1\ict283 - data structures and abstractions\assignment 1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\date.cpp
+	"Date.h"
+
+1523947320 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\date.h
+	<iostream>
+	<cstdlib>
+
+1523863301 source:d:\2018, semester 1\ict283 - data structures and abstractions\assignment 1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\time.cpp
+	"Time.h"
+	<string>
+
+1523947325 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523804181 source:c:\users\kanen\desktop\workspace\codeblocks\ass1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\date.cpp
+	"Date.h"
+
+1523947320 c:\users\kanen\desktop\workspace\codeblocks\ass1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\date.h
+	<iostream>
+	<cstdlib>
+
+1523863301 source:c:\users\kanen\desktop\workspace\codeblocks\ass1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\time.cpp
+	"Time.h"
+	<string>
+
+1523947325 c:\users\kanen\desktop\workspace\codeblocks\ass1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523983236 source:c:\users\kanen\desktop\workspace\codeblocks\ass1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Time.h"
+	"Date.h"
+	"WeatherSensorType.h"
+	"Vector.h"
+
+1523947300 c:\users\kanen\desktop\workspace\codeblocks\ass1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\weathersensortype.h
+
+1523982410 c:\users\kanen\desktop\workspace\codeblocks\ass1\ict283_assignment1_kane_r_nikander_31566009\onlineweatherstation\vector.h
+
+1523804181 source:c:\users\kanen\desktop\workspace\codeblocks\week10\q5\onlineweatherstation_v1\date.cpp
+	"Date.h"
+
+1523947320 c:\users\kanen\desktop\workspace\codeblocks\week10\q5\onlineweatherstation_v1\date.h
+	<iostream>
+	<cstdlib>
+
+1523863301 source:c:\users\kanen\desktop\workspace\codeblocks\week10\q5\onlineweatherstation_v1\time.cpp
+	"Time.h"
+	<string>
+
+1523947325 c:\users\kanen\desktop\workspace\codeblocks\week10\q5\onlineweatherstation_v1\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1525509863 source:c:\users\kanen\desktop\workspace\codeblocks\week10\q5\onlineweatherstation_v1\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Time.h"
+	"Date.h"
+	"WeatherSensorType.h"
+	"Vector.h"
+
+1523947300 c:\users\kanen\desktop\workspace\codeblocks\week10\q5\onlineweatherstation_v1\weathersensortype.h
+
+1523982410 c:\users\kanen\desktop\workspace\codeblocks\week10\q5\onlineweatherstation_v1\vector.h
+
+1523804181 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v1\date.cpp
+	"Date.h"
+
+1523947320 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v1\date.h
+	<iostream>
+	<cstdlib>
+
+1523863301 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v1\time.cpp
+	"Time.h"
+	<string>
+
+1523947325 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v1\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1523804181 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v2\date.cpp
+	"Date.h"
+
+1523947320 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v2\date.h
+	<iostream>
+	<cstdlib>
+
+1523863301 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v2\time.cpp
+	"Time.h"
+	<string>
+
+1523947325 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v2\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1526547185 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v3\date.cpp
+	"Date.h"
+
+1526546021 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v3\date.h
+	<iostream>
+	<cstdlib>
+
+1526545670 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v3\time.cpp
+	"Time.h"
+	<string>
+
+1526546029 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v3\time.h
+	<string>
+	<iostream>
+	<cstdlib>
+
+1526704717 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\date.cpp
+	"Date.h"
+
+1526704250 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\date.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1526714143 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\time.cpp
+	"Time.h"
+
+1526713321 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\time.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1526715776 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\weatherdata.cpp
+	"WeatherData.h"
+
+1526716528 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\weatherdata.h
+	<map>
+	"BST.h"
+	"BSTExtractor.h"
+	"Date.h"
+	"Time.h"
+	"WeatherSensorType.h"
+
+1526705832 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\bst.h
+	<stack>
+	<cstdlib>
+
+1526668003 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\bstextractor.h
+	<iostream>
+	<vector>
+
+1526720314 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\weathersensortype.h
+	"Time.h"
+	"Date.h"
+
+1526728558 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v4\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<vector>
+	"WeatherSensorType.h"
+	"WeatherData.h"
+	"Time.h"
+	"Date.h"
+
+1526795920 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\date.cpp
+	"Date.h"
+
+1526792044 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\date.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1526796168 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\time.cpp
+	"Time.h"
+
+1526792030 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\time.h
+	<iostream>
+	<cstdlib>
+	<string>
+
+1526715776 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\weatherdata.cpp
+	"WeatherData.h"
+
+1526793543 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\weatherdata.h
+	<map>
+	"BST.h"
+	"BSTExtractor.h"
+	"Date.h"
+	"Time.h"
+	"WeatherSensorType.h"
+
+1526790894 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\bst.h
+	<stack>
+	<cstdlib>
+
+1526793343 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\bstextractor.h
+	<vector>
+
+1526720314 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\weathersensortype.h
+	"Time.h"
+	"Date.h"
+
+1526825564 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v5\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<vector>
+	"WeatherSensorType.h"
+	"WeatherData.h"
+	"Time.h"
+	"Date.h"
+
+1526831174 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\date.cpp
+	"Date.h"
+
+1526832795 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\date.h
+
+1526830936 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\time.cpp
+	"Time.h"
+
+1526832793 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\time.h
+
+1526832849 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\weatherdata.cpp
+	"WeatherData.h"
+
+1526833770 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\weatherdata.h
+	<map>
+	"BST.h"
+	"BSTExtractor.h"
+	"Date.h"
+	"Time.h"
+	"WeatherSensorType.h"
+
+1526837093 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\bst.h
+	<stack>
+	<cstdlib>
+
+1526912848 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\bstextractor.h
+	<vector>
+
+1526720314 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\weathersensortype.h
+	"Time.h"
+	"Date.h"
+
+1526901216 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v6\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<vector>
+	"WeatherSensorType.h"
+	"WeatherData.h"
+	"Time.h"
+	"Date.h"
+
+1526831174 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\date.cpp
+	"Date.h"
+
+1526832795 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\date.h
+
+1526916952 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\time.cpp
+	"Time.h"
+
+1526832793 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\time.h
+
+1526832849 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\weatherdata.cpp
+	"WeatherData.h"
+
+1527147392 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\weatherdata.h
+	<map>
+	"BST.h"
+	"Extractor.h"
+	"Date.h"
+	"Time.h"
+	"WeatherSensorType.h"
+
+1526974431 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\bst.h
+	<stack>
+	<cstdlib>
+
+1526912848 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\bstextractor.h
+	<vector>
+
+1526720314 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\weathersensortype.h
+	"Time.h"
+	"Date.h"
+
+1526968794 source:c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<vector>
+	"WeatherSensorType.h"
+	"WeatherData.h"
+	"Time.h"
+	"Date.h"
+
+1527147303 c:\users\kanen\desktop\workspace\codeblocks\ass2\onlineweatherstation_v7\extractor.h
+	<vector>
+
+1526831174 source:d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\date.cpp
+	"Date.h"
+
+1526832795 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\date.h
+
+1526968794 source:d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\main.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<vector>
+	"WeatherSensorType.h"
+	"WeatherData.h"
+	"Time.h"
+	"Date.h"
+
+1526720314 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\weathersensortype.h
+	"Time.h"
+	"Date.h"
+
+1526832793 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\time.h
+
+1527147392 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\weatherdata.h
+	<map>
+	"BST.h"
+	"Extractor.h"
+	"Date.h"
+	"Time.h"
+	"WeatherSensorType.h"
+
+1526974431 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\bst.h
+	<stack>
+	<cstdlib>
+
+1527147303 d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\extractor.h
+	<vector>
+
+1526916952 source:d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\time.cpp
+	"Time.h"
+
+1527147458 source:d:\2018, semester 1\ict283 - data structures and abstractions\assignment 2\ict283_assignment2_kane_r_nikander_31566009\onlineweatherstation\weatherdata.cpp
+	"WeatherData.h"
+
